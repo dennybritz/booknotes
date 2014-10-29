@@ -110,7 +110,7 @@ Leadership teams often underestimate how long it takes for revenue from a new pr
 
 It's not that the coach is better at playing the sport than the player, in fact that is almost never the case. But the coaches have a different skill: They can observe players in action and tell them how to be better.
 
-**Communicating**
+### Communicating
 
 In this [old] world, information is hoarded as a means of control and power. People were hired to work, in the Internet Century you hire people to think.
 
@@ -128,7 +128,7 @@ At least once per year, write a review of your own performance, then read it and
 
 The manager should write down the top five things she wants to cover in the meeting, and the employee should do the same. When the separate lists are revealed, chances are that at least some of the items overlap.
 
-**Innovation**
+### Innovation
 
 The business should always be outrunning the processes, so chaos is right where you want to be.
 
@@ -170,7 +170,7 @@ We say we're stubborn on vision and flexible on details.
 
 So fail quickly, but with a very long time horizon? Huh? How does that work? (See, we told you this was the tricky part.) The key is to iterate very quickly and to establish metrics that help you judge if, with each iteration, you are getting closer to success.
 
-**Conclusion**
+### Conclusion
 
 The rate of technology-driven change outpaces our ability to train people in new skills, putting tremendous pressure on entire classes of workers and the economic structure of many nations.
 

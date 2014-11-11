@@ -1,4 +1,4 @@
-### Lecture 14
+### Lecture 14 - How to operate
 
 The founder is like a task rabbit doing stuff for other people
 

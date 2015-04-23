@@ -3,3 +3,4 @@
 - [Charisma Myth](charisma-myth.md)
 - [The Checklist Manifesto](checklist-manifesto.md)
 - [Lean B2B](lean-b2b.md)
+- [Search Inside Yourself](search-inside-yourself.md)

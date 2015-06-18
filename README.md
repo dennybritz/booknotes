@@ -4,3 +4,4 @@
 - [The Checklist Manifesto](checklist-manifesto.md)
 - [Lean B2B](lean-b2b.md)
 - [Search Inside Yourself](search-inside-yourself.md)
+- [The Hard Thing About Hard Things](hard-thing.md)

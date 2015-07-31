@@ -5,4 +5,4 @@
 - [Lean B2B](lean-b2b.md)
 - [Search Inside Yourself](search-inside-yourself.md)
 - [The Hard Thing About Hard Things](hard-thing.md)
-- [A man's search for meaning](means-search-for-meaning.md)
+- [A man's search for meaning](mans-search-for-meaning.md)

@@ -6,3 +6,4 @@
 - [Search Inside Yourself](search-inside-yourself.md)
 - [The Hard Thing About Hard Things](hard-thing.md)
 - [A man's search for meaning](mans-search-for-meaning.md)
+- [The Wart of Art](war-of-art.md)

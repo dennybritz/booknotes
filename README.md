@@ -9,3 +9,4 @@
 - [The Wart of Art](war-of-art.md)
 - [Getting There: A book of mentors](book-of-mentors.md)
 - [Thinking Fast and Slow](thinking-fast-and-slow.md)
+- [High Output Management](high-output-management.md)

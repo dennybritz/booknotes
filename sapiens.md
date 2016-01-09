@@ -140,9 +140,7 @@ the Agricultural Revolution left farmers with lives generally more difficult and
 
 The Agricultural Revolution certainly enlarged the sum total of food at the disposal of humankind, but the extra food did not translate into a better diet or more leisure. Rather, it translated into population explosions and pampered elites. The average farmer worked harder than the average forager, and got a worse diet in return. The Agricultural Revolution was history’s biggest fraud.
 
-According to the basic evolutionary criteria of survival and reproduction, wheat has become one of
-
-the most successful plants in the history of the earth.
+According to the basic evolutionary criteria of survival and reproduction, wheat has become one of the most successful plants in the history of the earth.
 
 We did not domesticate wheat. It domesticated us.
 
@@ -152,7 +150,7 @@ This is the essence of the Agricultural Revolution: the ability to keep more peo
 
 As more effort was directed towards cereal cultivation, there was less time to gather and hunt wild species. The foragers became farmers.
 
-In most agricultural societies at least one out of every three children died before reaching twenty.5
+In most agricultural societies at least one out of every three children died before reaching twenty.
 
 One of history’s few iron laws is that luxuries tend to become necessities and to spawn new obligations. Once people get used to a certain luxury, they take it for granted. Then they begin to count on it. Finally they reach a point where they can’t live without it.
 
@@ -171,7 +169,7 @@ This discrepancy between evolutionary success and individual suffering is perhap
 
 ## Building Pyramids
 
-Around 10,000 BC, before the transition to agriculture, earth was home to about 5–8 million nomadic foragers. By the first century AD, only 1–2 million foragers remained (mainly in Australia, America and Africa), but their numbers were dwarfed by the world’s 250 million farmers.1
+Around 10,000 BC, before the transition to agriculture, earth was home to about 5–8 million nomadic foragers. By the first century AD, only 1–2 million foragers remained (mainly in Australia, America and Africa), but their numbers were dwarfed by the world’s 250 million farmers.
 
 Consequently, from the very advent of agriculture, worries about the future became major players in the theatre of the human mind.
 
@@ -249,7 +247,7 @@ Throughout history, and in almost all societies, concepts of pollution and purit
 
 A person’s jati determines her profession, the food she can eat, her place of residence and her eligible marriage partners. Usually a person can marry only within his or her caste, and the resulting children inherit that status.
 
-In modern India, matters of marriage and work are still heavily influenced by the caste system, despite all attempts by the democratic government of India to break down such distinctions and convince Hindus that there is nothing polluting in caste mixing.3
+In modern India, matters of marriage and work are still heavily influenced by the caste system, despite all attempts by the democratic government of India to break down such distinctions and convince Hindus that there is nothing polluting in caste mixing.
 
 They chose to import slaves from Africa rather than from Europe or East Asia due to three circumstantial factors. Firstly, Africa was closer, so it was cheaper to import slaves from Senegal than from Vietnam. Secondly, in Africa there already existed a well-developed slave trade (exporting slaves mainly to the Middle East), whereas in Europe slavery was very rare. It was obviously far easier to buy slaves in an existing market than to create a new one from scratch. Thirdly, and most importantly, American plantations in places such as Virginia, Haiti and Brazil were plagued by malaria and yellow fever, which had originated in Africa. Africans had acquired over the generations a partial genetic immunity to these diseases, whereas Europeans were totally defenceless and died in droves.
 
@@ -302,7 +300,7 @@ Myths and fictions accustomed people, nearly from the moment of birth, to think 
 
 Unlike the laws of physics, which are free of inconsistencies, every man-made order is packed with internal contradictions. Cultures are constantly trying to reconcile these contradictions, and this process fuels change.
 
-people throughout the world have gradually come to see both equality and individual freedom as fundamental values. Yet the two values contradict each other. Equality can be ensured only by curtailing the freedoms of those who are better off.
+People throughout the world have gradually come to see both equality and individual freedom as fundamental values. Yet the two values contradict each other. Equality can be ensured only by curtailing the freedoms of those who are better off.
 
 Cognitive dissonance is often considered a failure of the human psyche. In fact, it is a vital asset. Had people been unable to hold contradictory beliefs and values, it would probably have been impossible to establish and maintain any human culture.
 
@@ -310,7 +308,7 @@ We would do better to adopt instead the viewpoint of a cosmic spy satellite, whi
 
 The best way to appreciate the general direction of history is to count the number of separate human worlds that coexisted at any given moment on planet Earth. Today, we are used to thinking about the whole planet as a single unit, but for most of history, earth was in fact an entire galaxy of isolated human worlds.
 
-so our single global culture contains many different types of lifestyles and people, from New York stockbrokers to Afghan shepherds. Yet they are all closely connected and they influence one another in myriad ways. They still argue and fight, but they argue using the same concepts and fight using the same weapons. A real ‘clash of civilisations’ is like the proverbial dialogue of the deaf. Nobody can grasp what the other is saying.
+So our single global culture contains many different types of lifestyles and people, from New York stockbrokers to Afghan shepherds. Yet they are all closely connected and they influence one another in myriad ways. They still argue and fight, but they argue using the same concepts and fight using the same weapons. A real ‘clash of civilisations’ is like the proverbial dialogue of the deaf. Nobody can grasp what the other is saying.
 
 In fact, no social animal is ever guided by the interests of the entire species to which it belongs. No chimpanzee cares about the interests of the chimpanzee species, no snail will lift a tentacle for the global snail community, no lion alpha male makes a bid for becoming the king of all lions, and at the entrance of no beehive can one find the slogan: ‘Worker bees of the world – unite!’
 
@@ -321,7 +319,7 @@ We begin with the story of the greatest conqueror in history, a conqueror posses
 
 ## The Scent of Money
 
-‘Because I and my companions suffer from a disease of the heart which can be cured only with gold.’1
+‘Because I and my companions suffer from a disease of the heart which can be cured only with gold.’
 
 A piece of meat given for free would carry with it the assumption of reciprocity – say, free medical assistance.
 
@@ -415,7 +413,7 @@ Around AD 1500, history made its most momentous choice, changing not only the fa
 
 In the year 1500, there were about 500 million Homo sapiens in the entire world. Today, there are 7 billion.
 
-In 1500, humanity consumed about 13 trillion calories of energy per day. Today, we consume 1,500 trillion calories a day.4 (Take a second look at those figures – human population has increased fourteen-fold, production 240-fold, and energy consumption 115-fold.)
+In 1500, humanity consumed about 13 trillion calories of energy per day. Today, we consume 1,500 trillion calories a day. (Take a second look at those figures – human population has increased fourteen-fold, production 240-fold, and energy consumption 115-fold.)
 
 This was not merely a historical achievement, but an evolutionary and even cosmic feat. During the previous 4 billion years of evolution, no organism managed even to leave the earth’s atmosphere, and certainly none left a foot or tentacle print on the moon.
 
@@ -452,7 +450,7 @@ Was Cook’s ship a scientific expedition protected by a military force or a mil
 
 Europeans managed to conquer America and gain supremacy at sea mainly because the Asiatic powers showed little interest in them. The early modern era was a golden age for the Ottoman Empire in the Mediterranean, the Safavid Empire in Persia, the Mughal Empire in India, and the Chinese Ming and Qing dynasties.
 
-In 1775 Asia accounted for 80 per cent of the world economy. The combined economies of India and China alone represented two-thirds of global production. In comparison, Europe was an economic dwarf.3
+In 1775 Asia accounted for 80 per cent of the world economy. The combined economies of India and China alone represented two-thirds of global production. In comparison, Europe was an economic dwarf.
 
 In 1950 western Europe and the United States together accounted for more than half of global production, whereas China’s portion had been reduced to 5 per cent.
 
@@ -519,7 +517,7 @@ During the early modern period, the rise of European capitalism went hand in han
 
 This is the fly in the ointment of free-market capitalism. It cannot ensure that profits are gained in a fair way, or distributed in a fair manner. On the contrary, the craving to increase profits and production blinds people to anything that might stand in the way.
 
-According to the most moderate estimates, between 1885 and 1908 the pursuit of growth and profits cost the lives of 6 million individuals (at least 20 per cent of the Congo’s population). Some estimates reach up to 10 million deaths.4
+According to the most moderate estimates, between 1885 and 1908 the pursuit of growth and profits cost the lives of 6 million individuals (at least 20 per cent of the Congo’s population). Some estimates reach up to 10 million deaths.
 
 The economic pie of 2014 is far larger than the pie of 1500, but it is distributed so unevenly that many African peasants and Indonesian labourers return home after a hard day’s work with less food than did their ancestors 500 years ago.
 
@@ -666,4 +664,10 @@ If the curtain is indeed about to drop on Sapiens history, we members of one of 
 
 ## Afterword
 
-SEVENTY THOUSAND YEARS AGO, HOMO sapiens was still an insignificant animal minding its own business in a corner of Africa. In the following millennia it transformed itself into the master of the entire planet and the terror of the ecosystem. Today it stands on the verge of becoming a god, poised to acquire not only eternal youth, but also the divine abilities of creation and destruction. Unfortunately, the Sapiens regime on earth has so far produced little that we can be proud of. We have mastered our surroundings, increased food production, built cities, established empires and created far-flung trade networks. But did we decrease the amount of suffering in the world? Time and again, massive increases in human power did not necessarily improve the well-being of individual Sapiens, and usually caused immense misery to other animals. In the last few decades we have at last made some real progress as far as the human condition is concerned, with the reduction of famine, plague and war. Yet the situation of other animals is deteriorating more rapidly than ever before, and the improvement in the lot of humanity is too recent and fragile to be certain of. Moreover, despite the astonishing things that humans are capable of doing, we remain unsure of our goals and we seem to be as discontented as ever. We have advanced from canoes to galleys to steamships to space shuttles – but nobody knows where we’re going. We are more powerful than ever before, but have very little idea what to do with all that power. Worse still, humans seem to be more irresponsible than ever. Self-made gods with only the laws of physics to keep us company, we are accountable to no one. We are consequently wreaking havoc on our fellow animals and on the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction. Is there anything more dangerous than dissatisfied and irresponsible gods who don’t know what they want?
+Seventy Thousand years ago, Homo sapiens was still an insignificant animal minding its own business in a corner of Africa. In the following millennia it transformed itself into the master of the entire planet and the terror of the ecosystem. Today it stands on the verge of becoming a god, poised to acquire not only eternal youth, but also the divine abilities of creation and destruction. 
+
+Unfortunately, the Sapiens regime on earth has so far produced little that we can be proud of. We have mastered our surroundings, increased food production, built cities, established empires and created far-flung trade networks. But did we decrease the amount of suffering in the world? Time and again, massive increases in human power did not necessarily improve the well-being of individual Sapiens, and usually caused immense misery to other animals. In the last few decades we have at last made some real progress as far as the human condition is concerned, with the reduction of famine, plague and war. Yet the situation of other animals is deteriorating more rapidly than ever before, and the improvement in the lot of humanity is too recent and fragile to be certain of. 
+
+Moreover, despite the astonishing things that humans are capable of doing, we remain unsure of our goals and we seem to be as discontented as ever. We have advanced from canoes to galleys to steamships to space shuttles – but nobody knows where we’re going. We are more powerful than ever before, but have very little idea what to do with all that power. Worse still, humans seem to be more irresponsible than ever. Self-made gods with only the laws of physics to keep us company, we are accountable to no one. We are consequently wreaking havoc on our fellow animals and on the surrounding ecosystem, seeking little more than our own comfort and amusement, yet never finding satisfaction.
+
+Is there anything more dangerous than dissatisfied and irresponsible gods who don’t know what they want?

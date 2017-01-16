@@ -88,6 +88,28 @@ Think about how old you are right now and think about being a 10-year-older vers
   - Zero to One by Peter Thiel with Blake Masters
 
 
+## Music
+
+- Creative Music:
+  - Alex Honnold, free solo climbing phenom: The Last of the Mohicans soundtrack
+  - Rolf Potts, author of Vagabonding and others: ambitones like The Zen Effect in the key of C for 30 minutes, made by Rolfe Kent, the composer of music for movies like Sideways, Wedding Crashers, and Legally Blonde
+  - Matt Mullenweg, lead developer of WordPress, CEO of Automattic: “Everyday” by A $ AP Rocky and “One Dance” by Drake
+  - Amelia Boone, the world’s most successful female obstacle course racer: “Tonight Tonight” by the Smashing Pumpkins and “Keep Your Eyes Open” by NEEDTOBREATHE
+  - Chris Young, mathematician and experimental chef: Paul Oakenfold’s “Live at the Rojan in Shanghai,” Pete Tong’s Essential Mix
+  - Jason Silva, TV and YouTube philosopher: “Time” from the Inception soundtrack by Hans Zimmer
+  - Chris Sacca: “Harlem Shake” by Baauer and “Lift Off” by Jay Z and Kanye West, featuring Beyoncé. “I can bang through an amazing amount of email with the Harlem Shake going on in the background.”
+  - Tim Ferriss: Currently I’m listening to “Circulation” by Beats Antique and “Black Out the Sun” by Sevendust, depending on whether I need flow or a jumpstart.
+
+- TF Music
+  - Flow album: Gran Hotel Buenos Aires by Federico Aubele
+  - Wake-up album: One-X by Three Days Grace The 4-Hour Body
+  - Flow album: Luciano Essential Mix (2009, Ibiza) featuring DeadMau5
+  - Wake-up album: Cold Day Memory by Sevendust The 4-Hour Chef
+  - Flow album: “Just Jammin’” extended single track by Gramatik
+  - Wake-up album: Dear Agony by Breaking Benjamin Tools of
+  - Flow album: I Choose Noise by Hybrid
+  - Wake-up album: Over the Under by Down
+
 ## Things to try, Research/Experiments
 
 - Death Race, Spartan Race (1060)

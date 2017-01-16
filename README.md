@@ -13,3 +13,4 @@
 - [The Master Algorithm](the-master-algorithm.md)
 - [Sapiens: A Brief History Of Humankind](sapiens.md)
 - [Joy on Demand](joy-on-demand.md)
+- [Tools of Titans](tools-of-titans.md)
